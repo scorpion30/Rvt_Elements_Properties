@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Elements Properties</Name>
+		<Assembly>Rvt_Elements_Properties.dll</Assembly>
+		<FullClassName>Rvt_Elements_Properties.ElementsProperties</FullClassName>
+		<Text>AN_Get Properties</Text>
+		<Description>This Plugin Get Elements Properties</Description>
+		<AddInId> 7DE5E18F-47C5-4322-A12D-BB396BA21607 </AddInId>
+		<VendorId>Ashraf_Nabil</VendorId>
+		<VendorDescription>BIM Developer, ashraf.nabil.uae@gmail.com</VendorDescription>
+
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>Conver</Name>
+		<Assembly>Conver.dll</Assembly>
+		<FullClassName>Rvt_Elements_Properties.Conver</FullClassName>
+		<Text>Chating With User</Text>
+		<Description>This Plugin For Chating With User</Description>
+		<AddInId> 01FDB395-D2A8-4F0D-B97F-2C0E6E322F93 </AddInId>
+		<VendorId>Ashraf_Nabil</VendorId>
+		<VendorDescription>BIM Developer, ashraf.nabil.uae@gmail.com</VendorDescription>
+
+	</AddIn>
+</RevitAddIns>
+
+
+
+

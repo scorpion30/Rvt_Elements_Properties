@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rvt_Elements_Properties", "Rvt_Elements_Properties\Rvt_Elements_Properties.csproj", "{26BFD861-2D76-40C2-86D6-11A18085ADAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BFD861-2D76-40C2-86D6-11A18085ADAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFD861-2D76-40C2-86D6-11A18085ADAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFD861-2D76-40C2-86D6-11A18085ADAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFD861-2D76-40C2-86D6-11A18085ADAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B816E3-A486-49D8-9008-03DB03AED55D}
+	EndGlobalSection
+EndGlobal
